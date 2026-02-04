@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "ClawPad Community",
+  "date": "February 2026",
+  "abstract": "Workspace organization assistant for ClawPad users. Helps set up folder structures tailored to different domains (Engineering & DevOps, Research & Academia, Business & Consulting, Creative & Writing, Personal Knowledge). Includes onboarding flow, document templates (plans, tracking docs, runbooks), and naming conventions.",
+  "references": [
+    "https://clawhub.ai/skills/workspace-manager",
+    "https://github.com/mhmdez/clawpad"
+  ]
+}
